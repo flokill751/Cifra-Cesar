@@ -23,12 +23,14 @@ Ela é chamada assim porque foi usada por Júlio César para enviar mensagens mi
 <h2>📂 Funcionalidades </h2>
 
 O programa implementa:
+<ul>
+<li> Criptografar uma mensagem usando um valor de deslocamento (chave)</li>
+<li> Descriptografar uma mensagem usando a mesma chave </li>
+<li> Testar automaticamente todos os 25 deslocamentos para tentar descobrir a chave (opcional, se implementado)</li>
+<li> Interface de menu no terminal </li>
+<li> Aceita textos completos, incluindo espaços e letras minúsculas/maiúsculas </li>
+</ul>
 
-✔ Criptografar uma mensagem usando um valor de deslocamento (chave)
-✔ Descriptografar uma mensagem usando a mesma chave
-✔ Testar automaticamente todos os 25 deslocamentos para tentar descobrir a chave (opcional, se implementado)
-✔ Interface de menu no terminal
-✔ Aceita textos completos, incluindo espaços e letras minúsculas/maiúsculas
 
 <h2>🧩 Como funciona</h2>
 
@@ -36,7 +38,7 @@ O programa implementa:
 
 Digite o texto
 
-Escolha uma opção:
+**Escolha uma opção:**
 
 1 → Criptografar
 
@@ -46,7 +48,7 @@ Escolha uma opção:
 
 Caso criptografe ou descriptografe, o usuário deve informar a chave (1 a 25)
 
-A saída exibirá:
+**A saída exibirá:**
 
 Texto original
 
