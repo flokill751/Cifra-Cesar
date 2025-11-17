@@ -1,12 +1,13 @@
-<h1 style="text-align: center;"> Criptografia de César – Java</h1>
+<div align="center"> <h1>Criptografia de César – Java</h1> </div>
 
 <br>
 
 Este projeto implementa a clássica Cifra de César, um dos métodos de criptografia mais antigos e simples. O programa permite criptografar e descriptografar mensagens deslocando as letras do alfabeto conforme uma chave numérica definida pelo usuário.
 
 A aplicação é executada no terminal e oferece um pequeno menu com opções de uso.
-
+<br>
 <h2>📌 O que é a Cifra de César?</h2>
+
 
 A Cifra de César é um algoritmo de substituição no qual cada letra do texto é trocada por outra localizada um número fixo de posições à frente no alfabeto.
 Exemplo: com chave 3
